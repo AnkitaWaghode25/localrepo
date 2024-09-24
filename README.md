@@ -1,1 +1,2 @@
-# this is my local repo
+# Mini projects
+Machine learing mini projects
